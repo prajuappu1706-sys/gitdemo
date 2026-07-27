@@ -1,2 +1,6 @@
 print("Student Management System")
 print("Welcome to Git Lab")
+name = input("Enter student name: ")
+course = input("Enter course: ")
+print("Student Name:", name)
+print("Course:", course)
